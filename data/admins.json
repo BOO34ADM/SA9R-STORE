@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin-1",
+    "username": "admin",
+    "email": "admin@sa9r.com",
+    "password": "647d74fb10c9f694bfabba9b4c8798d823f86d7d3e31290e223e0e8f45f62c09",
+    "role": "super_admin",
+    "createdAt": "2025-08-07T16:36:49.179Z"
+  }
+]

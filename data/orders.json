@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1755262075329",
+    "customerName": "dolly loko",
+    "email": "hahahjask@gmail.com",
+    "phone": "656787654567",
+    "address": "hswhgwu, rabat 48170",
+    "city": "rabat",
+    "items": [
+      {
+        "category": "tshirts",
+        "name": "Eagle Power Tee",
+        "price": "550 MAD",
+        "color": "Black",
+        "size": "M",
+        "quantity": 1,
+        "image": "https://images.pexels.com/photos/8148576/pexels-photo-8148576.jpeg",
+        "id": "tshirts-Eagle Power Tee-Black-M"
+      }
+    ],
+    "total": 550,
+    "date": "2025-08-15T12:47:55.329Z",
+    "status": "confirmed"
+  },
+  {
+    "id": "1755262423800",
+    "customerName": "test loko",
+    "email": "hahahjask@gmail.com",
+    "phone": "656787654567",
+    "address": "hswhgwu, rabat 48170",
+    "city": "rabat",
+    "items": [
+      {
+        "category": "tshirts",
+        "name": "Eagle Power Tee",
+        "price": "550 MAD",
+        "color": "Black",
+        "size": "M",
+        "quantity": 1,
+        "image": "https://images.pexels.com/photos/8148576/pexels-photo-8148576.jpeg",
+        "id": "tshirts-Eagle Power Tee-Black-M"
+      }
+    ],
+    "total": 550,
+    "date": "2025-08-15T12:53:43.800Z",
+    "status": "confirmed"
+  },
+  {
+    "id": "1755262494741",
+    "customerName": "me boo",
+    "email": "sa9r@sa9r.com",
+    "phone": "0678765456",
+    "address": "klajdlahduasod, kenitra 737383",
+    "city": "kenitra",
+    "items": [
+      {
+        "category": "hoodies",
+        "name": "Attitude Classic Hoodie",
+        "price": "900 MAD",
+        "color": "Black",
+        "size": "M",
+        "quantity": 1,
+        "image": "https://images.pexels.com/photos/16013680/pexels-photo-16013680.jpeg",
+        "id": "hoodies-Attitude Classic Hoodie-Black-M"
+      }
+    ],
+    "total": 900,
+    "date": "2025-08-15T12:54:54.741Z",
+    "status": "confirmed"
+  }
+]
